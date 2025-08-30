@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Launch Game",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/Game/bin/Debug/net9.0/Game.dll",
+      "cwd": "${workspaceFolder}/Game",
+      "preLaunchTask": "build"
+    }
+  ]
+}
